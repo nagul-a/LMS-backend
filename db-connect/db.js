@@ -15,3 +15,4 @@ exports.connect = async () => {
 //put
 
 //delete
+const getAssignments=await User.findbyid(id,{})
